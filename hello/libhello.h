@@ -1,0 +1,1 @@
+void printHello(char *str); // Los .h sriven para presentar
