@@ -17,7 +17,7 @@ int main(){
         printf("Soy el hijo\n");
         //codigo que quiero que haga el hijo
         while(forever){
-            printf("Puto\n");
+            printf("Hola\n");
         }
         printf("Salio del ciclo infinito\n");
     }
